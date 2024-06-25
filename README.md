@@ -1,8 +1,8 @@
-Este repositório exemplifica a utilização da API Google Generative AI em Python para interagir com o modelo de linguagem avançado Gemini. O código oferece um exemplo prático de como empregar a API para gerar texto, configurar parâmetros de geração e implementar um chat interativo.
+Este repositório exemplifica a utilização da API Google Generative AI em Python para interagir com o modelo de linguagem Gemini. O código oferece um exemplo prático de como empregar a API para gerar texto, configurar parâmetros de geração e implementar um chat interativo.
 
 Tecnologias Utilizadas:
 
-Google Generative AI API: Provê acesso ao modelo de linguagem avançado Gemini para geração de texto.
+Google Generative AI API: Provê acesso ao modelo de linguagem Gemini para geração de texto.
 Python: Linguagem de programação empregada para interagir com a API e desenvolver o código.
 Jupyter Notebook: Ambiente interativo para executar o código e visualizar os resultados.
 
